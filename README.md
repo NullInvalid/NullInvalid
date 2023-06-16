@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NullInvalid
 - 👀 I’m interested in poetry, cooking and coding..
-- 🌱 I’m currently learning gdscript, python, php, css.
+- 🌱 I’m currently learning gdscript, python, php, css, c++, c#, java, sql.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email : jibrilgon@gmail.com
 
 <!---
 NullInvalid/NullInvalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
